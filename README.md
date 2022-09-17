@@ -7,6 +7,6 @@ With a large enough number of points, you will get different cute shapes.
 
 
 ## Requirements
-Random Library
-Vpython Library
-Numpy Lbrary
+- Random Library
+- Vpython Library
+- Numpy Lbrary
